@@ -1,4 +1,4 @@
-name: tokenbridge
+name: bridge
 
 on: [push]
 
